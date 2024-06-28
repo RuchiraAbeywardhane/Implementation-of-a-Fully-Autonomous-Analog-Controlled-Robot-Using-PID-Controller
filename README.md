@@ -24,6 +24,7 @@ This is a group project done under the module EN2091 - Laboratory Practice and P
 *  A PWM signal is generated using the PID output and a comparator circuit.
 *  This PWM signal acts as the Base speed of the robot.
 *  Consequently the additional sharp IR sensor will vary the car's speed accordingly.
+*  Therefore the car will accelerate and deaccelerate according to the distance of the wall infront it.
 
 ![image](https://github.com/LasithaAmarasinghe/Analog-Wall-Follow-Robot/assets/106037441/49f70bd2-af03-46a3-9955-452a3b607f5d)
 
